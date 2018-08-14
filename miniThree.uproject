@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A6B3D9CF-4BEE-26EE-1100-E099E87E4720}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "miniThree",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
